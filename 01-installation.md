@@ -1,22 +1,22 @@
-# 🧰 Instalace Visual Studio Community 2022
+# Instalace Visual Studio Community 2022
 
 Visual Studio Community 2022 je bezplatné vývojové prostředí od společnosti **Microsoft**, určené pro jednotlivce, studenty a malé týmy. Nabízí kompletní sadu nástrojů pro vývoj aplikací v jazycích jako **C#, C++, Python, .NET, JavaScript** a mnoho dalších. My ho využijeme pro tvorbu jednoduchých konzolových aplikací v jazyce C#.
 
 ---
 
-## 🔽 1. Stažení instalátoru
+## 1. Stažení instalátoru
 
 1. Otevřete oficiální stránku: [https://visualstudio.microsoft.com/downloads/](https://visualstudio.microsoft.com/downloads/)
 2. Klikněte na tlačítko **"Free download"** u edice *Visual Studio Community 2022*.
 
 ![Stažení instalátoru Visual Studio 2022](./resources/vs-download.png)
 
-### ⚠️ Pozor
+### Pozor
 **Je důležité si nesplést VisualStudio 2022 a Visual Studio Code. Pro instalaci VSC je potřeba jiný postup, na který se tento manuál nesoustředí a tato metodika.**
 
 ---
 
-## ⚙️ 2. Spuštění instalátoru
+## 2. Spuštění instalátoru
 
 Po stažení souboru `VisualStudioSetup.exe` jej spusťte.
 Instalátor nejprve stáhne potřebné součásti.
@@ -25,7 +25,7 @@ Instalátor nejprve stáhne potřebné součásti.
 
 ---
 
-## 🧩 3. Výběr Workloads
+## 3. Výběr Workloads
 
 1. Zobrazí se nabídka modulů - pro toto školení je třeba nainstalovat *.NET desktop development*.
 
@@ -37,7 +37,7 @@ Instalátor nejprve stáhne potřebné součásti.
 
 ---
 
-## 💾 4. Instalace
+## 4. Instalace
 
 1. Klikněte na **"Install"**, případně *"Modify"*.
     - Instalace může trvat několik minut podle zvolených komponent a rychlosti internetu.
@@ -48,7 +48,7 @@ Instalátor nejprve stáhne potřebné součásti.
 
 ---
 
-## 🚀 5. První spuštění
+## 5. První spuštění
 
 1. Po dokončení instalace spusťte Visual Studio. (případně se spustí automaticky)
 2. Můžete přihlásit pomocí účtu Microsoft a zvolit barevné téma.
@@ -60,7 +60,7 @@ Instalátor nejprve stáhne potřebné součásti.
 
 ---
 
-## ✅ 6. Vytvoření nového projektu
+## 6. Vytvoření nového projektu
 
 1. Klikněte na **"Create a new project"**
 
