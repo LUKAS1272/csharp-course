@@ -12,16 +12,16 @@ Tento repozitář je organizován následovně:
 
 ### 2. `/methodologies`
    - Podrobné plány lekcí a metodiky pro výuku C#.
-   - Obsahuje soubory pro metodiku L1 a L2.
+   - Obsahuje soubory pro jednotlivé metodiky.
 
 ### 3. `/preparation`
    - Soubory pro přípravu výuky.
    - Zahrnuje pokyny k instalaci a úvod do metodiky.
 
-### 4. **projects**
+### 4. `/projects`
    - Série studentských projektů pro každou úroveň lekce.
    - Projekty navržené tak, aby studenty naučily aplikovat to, co se naučili v reálném programování.
    - Rozděleno podle úrovně lekce (L1 až L5).
 
-### 5. **resources**
+### 5. `/resources`
    - Další materiály, jako jsou odznaky a vizuální pomůcky.
