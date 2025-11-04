@@ -9,7 +9,7 @@ Visual Studio Community 2022 je bezplatné vývojové prostředí od společnost
 1. Otevřete oficiální stránku: [https://visualstudio.microsoft.com/downloads/](https://visualstudio.microsoft.com/downloads/)
 2. Klikněte na tlačítko **"Free download"** u edice *Visual Studio Community 2022*.
 
-![Stažení instalátoru Visual Studio 2022](./resources/assets/vs-download.png)
+![Stažení instalátoru Visual Studio 2022](./resources/image-assets/vs-download.png)
 
 ### Pozor
 **Je důležité si nesplést VisualStudio 2022 a Visual Studio Code. Pro instalaci VSC je potřeba jiný postup, na který se tento manuál nesoustředí a tato metodika.**
@@ -21,7 +21,7 @@ Visual Studio Community 2022 je bezplatné vývojové prostředí od společnost
 Po stažení souboru `VisualStudioSetup.exe` jej spusťte.
 Instalátor nejprve stáhne potřebné součásti.
 
-![Instalátor Visual Studio](./resources/assets/installing.png)
+![Instalátor Visual Studio](./resources/image-assets/installing.png)
 
 ---
 
@@ -29,11 +29,11 @@ Instalátor nejprve stáhne potřebné součásti.
 
 1. Zobrazí se nabídka modulů - pro toto školení je třeba nainstalovat *.NET desktop development*.
 
-![Výběr Workloads](./resources/assets/modules.png)
+![Výběr Workloads](./resources/image-assets/modules.png)
 
 2. V záložce *Language packs* vyberte požadované jazyky vývojového prostředí. Tato metodika využívá anglické (English) prostředí pro výuku.
 
-![Výběr Workloads](./resources/assets/languages.png)
+![Výběr Workloads](./resources/image-assets/languages.png)
 
 ---
 
@@ -42,7 +42,7 @@ Instalátor nejprve stáhne potřebné součásti.
 1. Klikněte na **"Install"**, případně *"Modify"*.
     - Instalace může trvat několik minut podle zvolených komponent a rychlosti internetu.
 
-![Instalace probíhá](./resources/assets/modules-installing.png)
+![Instalace probíhá](./resources/image-assets/modules-installing.png)
 
 2. Pokud nechcete, aby se Visual Studio spustilo ihned po instalaci, nechte zatržítko **"Start after installation"** nazaškrtnuté
 
@@ -54,9 +54,9 @@ Instalátor nejprve stáhne potřebné součásti.
 2. Můžete přihlásit pomocí účtu Microsoft a zvolit barevné téma.
     - Přihlášení není pro toto školení nutné, lze pokračovat bez přihlášení -> klikněte na **"Skip and add accounts later."**
 
-![První spuštění Visual Studio 2022](./resources/assets/first-launch.png)
+![První spuštění Visual Studio 2022](./resources/image-assets/first-launch.png)
 
-![Výběr barevného téma](./resources/assets/choose-theme.png)
+![Výběr barevného téma](./resources/image-assets/choose-theme.png)
 
 ---
 
@@ -64,11 +64,11 @@ Instalátor nejprve stáhne potřebné součásti.
 
 1. Klikněte na **"Create a new project"**
 
-![Vytvoření prvního projektu](./resources/assets/get-started.png)
+![Vytvoření prvního projektu](./resources/image-assets/get-started.png)
 
 2. Vyberte šablonu **Console App (C#)**.
 
-![Vytvoření prvního projektu](./resources/assets/choose-template.png)
+![Vytvoření prvního projektu](./resources/image-assets/choose-template.png)
 
 3. Projekt pojmenujete
 4. Vyberte verzi frameworku (ideálně nejnovější LTS, tato metodika pracuje s **.NET 8.0 LTS**)
@@ -76,7 +76,7 @@ Instalátor nejprve stáhne potřebné součásti.
     - Top-level statements jsou ideální pro jednoduché programy, kde se nevyužívají metody, nebo třídy
     - V prvních 2 lekcích se pracuje s touto možností
 
-![Vyplnění dodatečných informací](./resources/assets/additional-information.png)
+![Vyplnění dodatečných informací](./resources/image-assets/additional-information.png)
 
 ### Top-level statements kód
 ```csharp
