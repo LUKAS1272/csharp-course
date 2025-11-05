@@ -74,7 +74,7 @@ Instalátor nejprve stáhne potřebné součásti.
 4. Vyberte verzi frameworku (ideálně nejnovější LTS, tato metodika pracuje s **.NET 8.0 LTS**)
 5. Vyberte, zda chcete použít "top-level statements"
     - Top-level statements jsou ideální pro jednoduché programy, kde se nevyužívají metody, nebo třídy
-    - V prvních 2 lekcích se pracuje s touto možností
+    - V prvních 4 lekcích se pracuje s touto možností
 
 ![Vyplnění dodatečných informací](../resources/image-assets/additional-information.png)
 
